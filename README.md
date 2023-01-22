@@ -29,7 +29,7 @@
 <ul>
     <li>Nothing in directory enumeration.</li>
     <li>Nothing important in source code as well.</li>
-    <li>This time, there is something in <code>view certificate</code> though.</li>
+    <li>But this time, there is something in <code>view certificate</code>.</li>
 </ul>
 <h3>Flag</h3>
 <p>Take a look at the certificates for both the subdomains and you will see one more subdomain in the <br><code>Subject Alt Names</code></p>
