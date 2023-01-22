@@ -3,7 +3,7 @@
 <ol>
     Important points.
     <li>This room is about subdomain enumeration.</li>
-    <li>Add <code> futurevera.thm </code> to <code> /etc/hosts </code></li>
+    <li>Add <code>futurevera.thm</code> in <code>/etc/hosts</code></li>
 </ol>
 <strong>I am including all the steps i took to solve this machine weather is was fruitful or not.</strong>
 
