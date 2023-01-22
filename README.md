@@ -33,7 +33,7 @@
 </ul>
 <h3>Flag</h3>
 <p>Take a look at the certificates for both the subdomains and you will see one more subdomain in the <br><code>Subject Alt Names</code></p>
-<p>If you don't know how to do this.</p>
+<p>If you don't know how to do this. (For firefox)</p>
 <ol>
     <li>Click on the lock icon in the search bar with a warning sign.</li>
     <li>Click on <code>Connection not scure</code></li>
